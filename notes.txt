@@ -52,3 +52,7 @@ Notas:
             - Blender
         - Música
             - Audacity
+
+- Recursos Extras (PRISM-Break)
+- Bibliografía
+- Licencia y Código Fuente
