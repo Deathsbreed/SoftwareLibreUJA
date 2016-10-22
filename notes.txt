@@ -4,5 +4,9 @@ Notas:
     - Explicación Superficial (Libre != Gratis)
     - Pequeña historia del Software Libre
         - Richard Stallman y GNU
-
-- Software Libre != Código Abierto
+    - Las Cuatro Libertades del Software Libre
+    - Software Libre != Código Abierto
+        - Ex. Unreal Engine
+    - Libre != Gratis
+        - Ejemplos
+    - Ejemplos de Software Libre
