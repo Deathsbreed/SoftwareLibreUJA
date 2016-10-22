@@ -8,7 +8,6 @@ Notas:
     - Software Libre != Código Abierto
         - Ex. Unreal Engine, ~Web
     - Libre != Gratis
-        - Ejemplos
     - Ejemplos de Software Libre
 
 - Software Libre en la UJA
