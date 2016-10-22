@@ -6,7 +6,49 @@ Notas:
         - Richard Stallman y GNU
     - Las Cuatro Libertades del Software Libre
     - Software Libre != Código Abierto
-        - Ex. Unreal Engine
+        - Ex. Unreal Engine, ~Web
     - Libre != Gratis
         - Ejemplos
     - Ejemplos de Software Libre
+
+- Software Libre en la UJA
+    - Ejemplos de Software Libre (Code::Blocks, MinGW, Ubuntu, Firefox, 8085sim)
+    - Importancia del Software Libre para Estudiantes
+        - Oportunidad para aprender del programa
+        - Oportunidad para contribuir a un proyecto
+        - Obtener contactos dentro del campo de la informática
+        - Acostubrarse a trabajar en equipo con otra gente (herramientas de colaboración)
+    - Importancia del Software Libre para Profesores
+        - Más comunidad (IRC, foros, usuarios, etc.)
+        - Atención más inmediata a los bugs que encuentras en los programas
+        - Posibilidad de arreglar un problema y contribuir el parche
+    - Importancia del Software Libre para la UJA
+        - Al contribuir promociona la UJA en el mundo de la informática
+    - Ejemplos de Software Propietario con Alternativas
+        - Mathematica < SAGE, Mathics
+        - GMail < Roundcube
+        - Microsoft Office < LibreOffice
+        - Google Drive < Hubzilla
+        - Skype < Tox, Ring, Jitsi
+        - Microsoft Windows < GNU/Linux, BSD
+        - Facebook, Twitter, LinkedIn < Diaspora*
+        - YouTube < MediaGoblin
+
+- Software Libre en el Ambito Profesional
+    - La universidad es para prepararte para el ambito profesional
+    - Ejemplos:
+        - Informática:
+            - Servidores suelen usar GNU/Linux o BSD
+            - Los supercomputadores suelen usar GNU/Linux
+            - Sistemas de seguridad suelen usar BSD
+            - Se suele usar Git para colaboración
+            - Java, Ruby on Rails, PHP, Apache
+            - GNU Debugger (GDB)
+        - Ciencias y Matemáticas:
+            - Fortran
+            - R, RStudio
+            - CERN
+        - Animación y Cine:
+            - Blender
+        - Música
+            - Audacity
