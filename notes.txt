@@ -1,0 +1,8 @@
+Notas:
+
+- ¿Qué es el Software Libre?
+    - Explicación Superficial (Libre != Gratis)
+    - Pequeña historia del Software Libre
+        - Richard Stallman y GNU
+
+- Software Libre != Código Abierto
