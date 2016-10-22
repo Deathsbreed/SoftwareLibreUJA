@@ -1,0 +1,8 @@
+# Ignore output from XeLaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.toc
